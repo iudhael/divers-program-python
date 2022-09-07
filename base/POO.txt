@@ -1,0 +1,42 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jun 24 13:24:02 2021
+
+@author: Iudhael ADIKPETO
+"""
+
+"""
+    Programmation Orienté Objet (P O O)
+                    ou
+    Programmation objet
+    
+    Vocabulaire
+
+classe            : plan de conception, genre (rx: Humain)
+Objet             : instence de classe (ex: Judi)
+                    judi est un composant de la classe Humain
+        
+Attribut          : variable de classe à l'extérieur de
+                    la classe l'attribut n'existe pas 
+                    (ex: age, taille, prenom, ...)
+Propriété         : manière de manipuler les attributs
+
+Méthode           : fonction d'une classe, est utiliser pour 
+                    un objet (ex: manger, parler, dormir)
+                    (tout ce qu'un humain peut faire)
+Méthode de classe : fonction d'une classe, fonctionne surtout pour
+                    pour la classe ( suite  )
+Méthode statique  : fonction d'une classe, mais indépendantede la 
+                    classe
+                    
+Héritage          : classe Fille qui hérite d'une classe Mère 
+                    (Fille est une sorte de Mère)
+                    classe Humain hérite de la classe animal
+                    (Humain est une sorte d'animal)
+
+P O O est une autre manière de programmer
+    
+    
+    
+    
+"""

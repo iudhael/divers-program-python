@@ -1,0 +1,8 @@
+# netsh wlan show profiles --> montre tous les profiles wifi stocket sur l'ordinateur
+
+# netsh wlan show profile nom_reseau --> pour avoir des + infos
+
+# netsh wlan show profile tec key=clear --> affiche la clée du reseau
+
+# systeminfo.exe --> avoir des infos
+

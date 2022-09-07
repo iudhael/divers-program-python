@@ -1,0 +1,4 @@
+pays = ["Nigeria", "Ghana", "Ethiopie", "Algérie", "Madagascar", "Erythrée", "Mali", "République centafricaine",
+        "Gambie", "Guinée-Bissau", "Afrique du Sud", "République du Congo", "Burundi", "Guinée", "Egypte"
+
+        ]

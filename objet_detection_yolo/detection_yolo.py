@@ -4,7 +4,7 @@ model = YOLO("yolo11n.pt")
 #verbose empeche l'affichage des logs
 #show affiche une fenetre  avec la video et les rectangle sur chaque ojet avec leur classe
 #save permet d'enregisrer le resultat
-new_img = model(source="/home/iudhael/Téléchargements/test_video.mp4", save=False, show=True, verbose=False )
+new_img = model(source="test_video.mp4", save=False, show=True, verbose=False )
 
 """
 for resultat in new_img:
